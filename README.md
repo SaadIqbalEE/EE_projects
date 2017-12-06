@@ -1,0 +1,3 @@
+# Echolon_Equation_Solver
+Both MFC and console application for solving 3 equations with 3 variables.
+Free for learners....
